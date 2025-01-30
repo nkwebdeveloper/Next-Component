@@ -2,6 +2,7 @@
 const nextConfig = { 
     images: {
         domains: ['static.wixstatic.com', 'images.unsplash.com', 'assets.aceternity.com'],
+        base: "/Next-Component",
       },
 };
 
