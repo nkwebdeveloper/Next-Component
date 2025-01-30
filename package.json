@@ -10,7 +10,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "preview": "preview"
+    "preview": "serve -s build"
   },
   "dependencies": {
     "@react-three/drei": "^9.109.2",
