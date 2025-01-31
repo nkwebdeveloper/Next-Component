@@ -3,6 +3,7 @@ const nextConfig = {
     images: {
         domains: ['static.wixstatic.com', 'images.unsplash.com', 'assets.aceternity.com'],
       },
+      output: "export",
 };
 
 export default nextConfig;
